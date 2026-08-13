@@ -1,0 +1,41 @@
+{
+  "jsc": {
+    "target": "es2022",
+    "loose": false,
+    "externalHelpers": false,
+    "parser": {
+      "syntax": "typescript",
+      "tsx": true,
+      "decorators": true,
+      "dynamicImport": true
+    },
+    "transform": {
+      "react": {
+        "runtime": "automatic",
+        "pragma": "React.createElement",
+        "pragmaFrag": "React.Fragment",
+        "throwIfNamespace": true,
+        "development": false,
+        "useBuiltins": false
+      },
+      "optimizer": {
+        "globals": {
+          "vars": {
+            "process.env.NODE_ENV": "\"production\""
+          }
+        }
+      }
+    },
+    "minify": {
+      "compress": {
+        "unused": true
+      },
+      "mangle": true
+    }
+  },
+  "minify": true,
+  "isModule": true,
+  "module": {
+    "type": "es6"
+  }
+}

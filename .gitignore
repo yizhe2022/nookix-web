@@ -1,0 +1,76 @@
+
+
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+.yarn/install-state.gz
+
+# testing
+/coverage
+
+# next.js
+/.next/
+/out/
+
+# production
+/build
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+
+# local environment and secrets
+.env
+.env.*
+!.env.example
+!.env.r2.example
+*.pem
+*.key
+*.p12
+*.pfx
+*.crt
+*.cer
+*.jks
+secrets/
+credentials/
+
+# local tool state
+.agent/
+.kiro/
+.cursor/
+
+# private operational scripts
+/scripts/
+
+# generated exports and local data
+*.log
+*.sqlite
+*.sqlite3
+*.db
+nookix_books_export.json
+
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db

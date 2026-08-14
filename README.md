@@ -10,18 +10,45 @@ An open-source web application for reading book summaries and listening to publi
 - **Accounts and personal libraries**: Use Supabase for authentication, user data, saved items, and progress tracking.
 - **Subscriptions and payments**: Integrate Stripe Checkout, the customer portal, and webhooks for subscription entitlement management.
 
+
 ## Screenshots
 
-View the product gallery
+### Home
 
+![Home](https://raw.githubusercontent.com/yizhe2022/nookix-web/main/docs/images/01-home.png)
 
+### Featured books
 
+![Featured books](https://raw.githubusercontent.com/yizhe2022/nookix-web/main/docs/images/02-featuredbooks.png)
 
-HomeFeatured booksCategoriesCollectionsBook detailsDownloadFor youExploreReading view
+### Categories
 
-| Home | Book details and player |
-| --- | --- |
-| ![Home screenshot](docs/images/home.png) | ![Book details and player screenshot](docs/images/book-detail.png) |
+![Categories](https://raw.githubusercontent.com/yizhe2022/nookix-web/main/docs/images/03-categories.png)
+
+### Collections
+
+![Collections](https://raw.githubusercontent.com/yizhe2022/nookix-web/main/docs/images/04-collections.png)
+
+### Book details
+
+![Book details](https://raw.githubusercontent.com/yizhe2022/nookix-web/main/docs/images/05-book-details.png)
+
+### Download
+
+![Download](https://raw.githubusercontent.com/yizhe2022/nookix-web/main/docs/images/06-download.png)
+
+### For you
+
+![For you](https://raw.githubusercontent.com/yizhe2022/nookix-web/main/docs/images/07-foryou.png)
+
+### Explore
+
+![Explore](https://raw.githubusercontent.com/yizhe2022/nookix-web/main/docs/images/08-explore.png)
+
+### Reading view
+
+![Reading view](https://raw.githubusercontent.com/yizhe2022/nookix-web/main/docs/images/09-reading.png)
+
 
 ## Technology Stack
 

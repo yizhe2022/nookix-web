@@ -12,7 +12,12 @@ An open-source web application for reading book summaries and listening to publi
 
 ## Screenshots
 
-> Screenshots are coming soon. Add images to `docs/images/` and replace the links below.
+View the product gallery
+
+
+
+
+HomeFeatured booksCategoriesCollectionsBook detailsDownloadFor youExploreReading view
 
 | Home | Book details and player |
 | --- | --- |
